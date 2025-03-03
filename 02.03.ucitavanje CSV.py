@@ -1,6 +1,6 @@
 # Load library
 import pandas as pd
-# Create URL
+# Create URL 2
 url = 'podaci.csv'
 # Load dataset
 dataframe = pd.read_csv(url)
