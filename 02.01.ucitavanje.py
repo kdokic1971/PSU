@@ -1,7 +1,7 @@
 # Load scikit-learn's datasets
 from sklearn import datasets
 import matplotlib.pyplot as plt
-# Load digits dataset
+# Load digits dataset 2
 digits = datasets.load_digits()
 # Create features matrix
 features = digits.data
